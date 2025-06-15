@@ -28,3 +28,8 @@ A working real-time chat application with clean UI.
 Source code using WebSockets for live communication.
 Chat messages stored and displayed with proper timestamps.
 Hosted project or GitHub repository link containing all files and README.
+
+OUTPUT : 
+![Image](https://github.com/user-attachments/assets/5a35bcb7-d476-4bb7-bd87-c1c013203a9d)
+
+![Image](https://github.com/user-attachments/assets/23a31cec-a11e-4c60-9420-99fa0a7a034c)
